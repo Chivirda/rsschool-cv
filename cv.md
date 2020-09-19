@@ -11,7 +11,7 @@ liked to work with user interfaces.
 I've skills in C#, Java, JavaScript. My basic control version system is a GIT. I worked in VS Code,
 WebStorm and Visual Studio.
 ### 5. Code examples: 
-Some Kata from codewars [x] 
+Some Kata from codewars :heavy_check_mark:
 ```javascript
 function even_or_odd(number) {
   return number % 2 === 0 ? 'Even' : 'Odd'
