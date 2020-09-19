@@ -1,1 +1,1 @@
-https://github.com/Chivirda/rsschool-cv.git
+https://chivirda.github.io/rsschool-cv/cv
